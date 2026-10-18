@@ -1,0 +1,6 @@
+{
+  "name": "MindMeshAI",
+  "description": "Connecting Human Intelligence with AI Intelligence. Enterprise workspace unifying knowledge search, document intelligence, meeting actions, research, and agent workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
